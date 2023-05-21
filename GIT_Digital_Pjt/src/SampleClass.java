@@ -6,6 +6,7 @@ public class SampleClass {
 		System.out.println("Git commit from Eclipse");
 		System.out.println("Git commit from Eclipse1");
 		System.out.println("Git commit from Eclipse2");
+		System.out.println("Auto trigger changes");
 
 	}
 
